@@ -145,7 +145,7 @@ open-ended Q&A.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/student-marks-prediction.git
+git clone https://github.com/PravikshaShetty/student-marks-prediction.git
 cd student-marks-prediction
 
 # 2. Install dependencies
